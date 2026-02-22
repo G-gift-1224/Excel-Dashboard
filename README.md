@@ -1,2 +1,2 @@
-# Excel-Dashbpard
+# Excel-Dashboard
 Amazon Sales Dashboard
